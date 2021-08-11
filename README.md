@@ -1,2 +1,2 @@
 # RHDigitalExe
-App RHDigital para audicao dos dados da FOLHA DE PAGAMENTOS do RH
+App RHDigital para auditar dados da FOLHA DE PAGAMENTOS do RH
